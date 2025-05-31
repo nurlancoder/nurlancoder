@@ -105,7 +105,6 @@
 
 - [x] IBM React sertifikatını almaq (✅ 90% ilə tamamlandı)
 - [ ] Full-stack developer kimi inkişaf etmək (Node.js, Express)
-- [ ] Cybersecurity sahəsində professional sertifikatlar almaq
 - [ ] Open source layihələrə töhfə vermək
 - [ ] Advanced TypeScript və Next.js öyrənmək
 - [ ] Cloud technologies (AWS, Azure) ilə tanış olmaq
@@ -127,7 +126,7 @@ Cybersecurity sahəsində tələbələr üçün Capture The Flag yarışması t�
 | Dil | Səviyyə | Detay |
 |-----|---------|-------|
 | 🇦🇿 **Azərbaycan dili** | Ana dili | Mükəmməl |
-| 🇬🇧 **İngilis dili** | B1-A2 | Texniki səviyyədə |
+| 🇬🇧 **İngilis dili** | A2-B1 | Texniki səviyyədə |
 | 🇹🇷 **Türk dili** | B2-C1 | Yüksək səviyyədə |
 
 ---
