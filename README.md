@@ -92,11 +92,11 @@
 **Təsvir:** Şəxsi portfolio saytı - responsive dizayn, müasir UI/UX və performans optimizasiyası
 
 ### 💼 **E-commerce Web Application** 
-**Tech Stack:** React, JavaScript, Bootstrap, REST API  
+**Tech Stack:** React, JavaScript, Bootstrap  
 **Təsvir:** Tam funksional e-ticarət platforması - məhsul kataloqu, səbət, ödəniş sistemi
 
 ### 🔐 **Cybersecurity Dashboard**
-**Tech Stack:** React, TypeScript, Chart.js, Kali Linux  
+**Tech Stack:** React, TypeScript, Kali Linux  
 **Təsvir:** Təhlükəsizlik analizi üçün dashboard - vulnerability assessment və penetration testing alətləri
 
 ---
