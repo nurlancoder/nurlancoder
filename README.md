@@ -24,10 +24,10 @@
 const nurlan = {
   role: "Frontend Developer & Cybersecurity Student",
   education: "Baku Engineering University - Information Security",
-  currentlyWorking: ["Bizera", "Teskup.com", "MynEra"],
+  currentlyWorking: ["Bizera", "Teskup.com"],
   passionateAbout: ["Web Security", "Modern UI/UX", "Performance Optimization"],
   currentlyLearning: ["Advanced TypeScript", "Next.js 14", "Cloud Technologies"],
-  mentor: "Algorithmics Global - National Hackathon Mentor",
+  recentRole: "Hackathon Mentor @ Algorithmics Global",
   funFact: "I bridge the gap between Frontend Development and Cybersecurity 🔐"
 };
 ```
@@ -98,16 +98,6 @@ Frontend Developer with **hands-on experience** in building responsive and user-
 </details>
 
 <details open>
-<summary><b>Frontend Developer - MynEra (ASSIP Hackathon Startup)</b> <i>(Jul 2025 - Present)</i></summary>
-<br>
-
-- Contributing as core Frontend Developer focusing on scalable interfaces
-- Building responsive pages using **React**, **TypeScript**, **Tailwind CSS**
-- Collaborating remotely with cross-functional team
-
-</details>
-
-<details open>
 <summary><b>Hackathon Mentor - Algorithmics Global</b> <i>(Sep 2025 - Dec 2025)</i></summary>
 <br>
 
@@ -119,6 +109,27 @@ Frontend Developer with **hands-on experience** in building responsive and user-
 </details>
 
 ### 📚 Previous Experience
+
+<details>
+<summary><b>Frontend Developer - MynEra (ASSIP Hackathon Startup)</b> <i>(Jul 2025 - Dec 2025)</i></summary>
+<br>
+
+- Contributed as core Frontend Developer focusing on scalable interfaces
+- Built responsive pages using **React**, **TypeScript**, **Tailwind CSS**
+- Collaborated remotely with cross-functional team
+
+</details>
+
+<details>
+<summary><b>Hackathon Mentor - Algorithmics Global</b> <i>(Sep 2025 - Dec 2025)</i></summary>
+<br>
+
+- Mentor at **"Məktəblilərarası Milli Hakaton"** (National School Hackathon)
+- Guided school students in project development, problem-solving, and algorithmic thinking
+- Provided technical support, evaluated projects, and helped participants improve their presentation and coding skills
+- **Skills:** Mentorship · Problem Solving · Git · GitHub · Code Review · Presentation Coaching
+
+</details>
 
 <details>
 <summary><b>Frontend Developer - Agile_Pulse (Startup)</b> <i>(May 2025 - Dec 2025)</i></summary>
@@ -227,7 +238,7 @@ Frontend Developer with **hands-on experience** in building responsive and user-
 - 🛡️ **CTF Competition Organizer** - Baku Engineering University (Dec 2024)
 - ⭐ **Honor Certificates** - DevLab, Software Village, CodeAlpha (2023-2025)
 - 🎖️ **Top 10 Intern** - CodeAlpha Remote Internship
-- 🏆 **Hackathon Mentor** - National School Hackathon (Sep-Dec 2025)
+- 🏆 **National Hackathon Mentor** - Algorithmics Global (Sep-Dec 2025)
 - 🌍 **Cultural Volunteer** - Heydar Aliyev Center International Conference (2025)
 
 ---
@@ -318,7 +329,7 @@ graph LR
 
 - [x] IBM React Certification (90% Achievement)
 - [x] Multiple Internship Completions with Honor
-- [x] Hackathon Mentorship Experience
+- [x] National Hackathon Mentorship Experience
 - [ ] Master Next.js 14 and Server Components
 - [ ] Learn Advanced TypeScript Patterns
 - [ ] Explore Cloud Technologies (AWS, Azure)
