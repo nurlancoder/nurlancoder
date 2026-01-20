@@ -316,7 +316,7 @@ Security analysis dashboard for vulnerability assessment and penetration testing
 
 ---
 
-## 🎯 2025 Goals & Roadmap
+## 🎯 2026 Goals & Roadmap
 
 ```mermaid
 graph LR
