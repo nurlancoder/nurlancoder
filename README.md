@@ -2,17 +2,17 @@
 
 # 👨‍💻 Nurlan Mammadli
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Frontend+Developer+%7C+Cybersecurity+Student;Building+Secure+%26+Modern+Web+Applications;React+%7C+Next.js+%7C+TypeScript+%7C+Tailwind+CSS" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Frontend+Developer+%7C+Cybersecurity+Student;Building+Secure+%26+Modern+Web+Applications;React+%7C+Next.js+%7C+TypeScript+%7C+Tailwind+CSS" alt="Typing SVG" />
 
 <p align="center">
-  <a href="https://portfolio-psi-azure-52.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00FF41?style=for-the-badge&logo=google-chrome&logoColor=black"/></a>
-  <a href="https://www.linkedin.com/in/nurlan-mammadli-b6a55b308/"><img src="https://img.shields.io/badge/LinkedIn-00FF41?style=for-the-badge&logo=linkedin&logoColor=black"/></a>
-  <a href="mailto:nurlanmammadli2@gmail.com"><img src="https://img.shields.io/badge/Email-00FF41?style=for-the-badge&logo=gmail&logoColor=black"/></a>
-  <a href="https://github.com/nurlancoder"><img src="https://img.shields.io/badge/GitHub-00FF41?style=for-the-badge&logo=github&logoColor=black"/></a>
+  <a href="https://portfolio-psi-azure-52.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-64FFDA?style=for-the-badge&logo=google-chrome&logoColor=0A192F"/></a>
+  <a href="https://www.linkedin.com/in/nurlan-mammadli-b6a55b308/"><img src="https://img.shields.io/badge/LinkedIn-64FFDA?style=for-the-badge&logo=linkedin&logoColor=0A192F"/></a>
+  <a href="mailto:nurlanmammadli2@gmail.com"><img src="https://img.shields.io/badge/Email-64FFDA?style=for-the-badge&logo=gmail&logoColor=0A192F"/></a>
+  <a href="https://github.com/nurlancoder"><img src="https://img.shields.io/badge/GitHub-64FFDA?style=for-the-badge&logo=github&logoColor=0A192F"/></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=nurlancoder&color=00FF41&style=flat-square&label=Profile+Views"/>
-<img src="https://img.shields.io/github/followers/nurlancoder?style=flat-square&color=00FF41&label=Followers"/>
+<img src="https://komarev.com/ghpvc/?username=nurlancoder&color=64FFDA&style=flat-square&label=Profile+Views"/>
+<img src="https://img.shields.io/github/followers/nurlancoder?style=flat-square&color=64FFDA&label=Followers"/>
 
 </div>
 
@@ -41,32 +41,32 @@ Frontend Developer with **hands-on experience** in building responsive and user-
 <div align="center">
 
 ### 💻 Frontend Development
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00FF41)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=00FF41)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00FF41)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FF41)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00FF41)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00FF41)
+![React](https://img.shields.io/badge/React-0A192F?style=for-the-badge&logo=react&logoColor=64FFDA)
+![Next.js](https://img.shields.io/badge/Next.js-0A192F?style=for-the-badge&logo=next.js&logoColor=64FFDA)
+![TypeScript](https://img.shields.io/badge/TypeScript-0A192F?style=for-the-badge&logo=typescript&logoColor=64FFDA)
+![JavaScript](https://img.shields.io/badge/JavaScript-0A192F?style=for-the-badge&logo=javascript&logoColor=64FFDA)
+![HTML5](https://img.shields.io/badge/HTML5-0A192F?style=for-the-badge&logo=html5&logoColor=64FFDA)
+![CSS3](https://img.shields.io/badge/CSS3-0A192F?style=for-the-badge&logo=css3&logoColor=64FFDA)
 
 ### 🎨 Styling & UI Frameworks
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=00FF41)
-![SASS](https://img.shields.io/badge/Sass-000000?style=for-the-badge&logo=sass&logoColor=00FF41)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=00FF41)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-000000?style=for-the-badge&logo=framer&logoColor=00FF41)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0A192F?style=for-the-badge&logo=tailwind-css&logoColor=64FFDA)
+![SASS](https://img.shields.io/badge/Sass-0A192F?style=for-the-badge&logo=sass&logoColor=64FFDA)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0A192F?style=for-the-badge&logo=bootstrap&logoColor=64FFDA)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0A192F?style=for-the-badge&logo=framer&logoColor=64FFDA)
 
 ### 🔧 State Management & Tools
-![Redux](https://img.shields.io/badge/Redux-000000?style=for-the-badge&logo=redux&logoColor=00FF41)
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-000000?style=for-the-badge&logo=redux&logoColor=00FF41)
-![Vite](https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=00FF41)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FF41)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41)
+![Redux](https://img.shields.io/badge/Redux-0A192F?style=for-the-badge&logo=redux&logoColor=64FFDA)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-0A192F?style=for-the-badge&logo=redux&logoColor=64FFDA)
+![Vite](https://img.shields.io/badge/Vite-0A192F?style=for-the-badge&logo=vite&logoColor=64FFDA)
+![Git](https://img.shields.io/badge/Git-0A192F?style=for-the-badge&logo=git&logoColor=64FFDA)
+![GitHub](https://img.shields.io/badge/GitHub-0A192F?style=for-the-badge&logo=github&logoColor=64FFDA)
 
 ### 🛡️ Cybersecurity & Design
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kali-linux&logoColor=00FF41)
-![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=00FF41)
-![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=00FF41)
-![Swagger](https://img.shields.io/badge/Swagger-000000?style=for-the-badge&logo=swagger&logoColor=00FF41)
-![Yup](https://img.shields.io/badge/Yup-000000?style=for-the-badge&logo=yup&logoColor=00FF41)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-0A192F?style=for-the-badge&logo=kali-linux&logoColor=64FFDA)
+![Figma](https://img.shields.io/badge/Figma-0A192F?style=for-the-badge&logo=figma&logoColor=64FFDA)
+![VS Code](https://img.shields.io/badge/VS_Code-0A192F?style=for-the-badge&logo=visual-studio-code&logoColor=64FFDA)
+![Swagger](https://img.shields.io/badge/Swagger-0A192F?style=for-the-badge&logo=swagger&logoColor=64FFDA)
+![Yup](https://img.shields.io/badge/Yup-0A192F?style=for-the-badge&logo=yup&logoColor=64FFDA)
 
 </div>
 
@@ -236,12 +236,12 @@ Frontend Developer with **hands-on experience** in building responsive and user-
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nurlancoder&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&bg_color=0a0a0a&title_color=00FF41&icon_color=00FF41&text_color=00FF41&border_color=00FF41"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurlancoder&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0a&title_color=00FF41&text_color=00FF41&langs_count=8&border_color=00FF41"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nurlancoder&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=64FFDA&icon_color=64FFDA&text_color=CCD6F6&border_color=1F2937"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurlancoder&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=64FFDA&text_color=CCD6F6&langs_count=8&border_color=1F2937"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nurlancoder&theme=chartreuse-dark&hide_border=true&background=0a0a0a&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&border=00FF41"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nurlancoder&theme=radical&hide_border=true&background=0d1117&stroke=64FFDA&ring=64FFDA&fire=64FFDA&currStreakLabel=64FFDA&sideNums=CCD6F6&sideLabels=CCD6F6&dates=8892B0&border=1F2937"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nurlancoder&theme=github-compact&hide_border=true&bg_color=0a0a0a&color=00FF41&line=00FF41&point=ffffff&area=true&border_color=00FF41"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nurlancoder&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=64FFDA&line=64FFDA&point=CCD6F6&area=true&border_color=1F2937"/>
 
 </div>
 
@@ -252,7 +252,7 @@ Frontend Developer with **hands-on experience** in building responsive and user-
 <div align="center">
 
 <a href="https://portfolio-psi-azure-52.vercel.app/">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nurlancoder&repo=portfolio&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0a&title_color=00FF41&icon_color=00FF41&text_color=00FF41&border_color=00FF41" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nurlancoder&repo=portfolio&theme=radical&hide_border=true&bg_color=0d1117&title_color=64FFDA&icon_color=64FFDA&text_color=CCD6F6&border_color=1F2937" />
 </a>
 
 </div>
@@ -334,13 +334,13 @@ graph LR
 ### Let's Build Something Amazing Together! 🚀
 
 <a href="https://portfolio-psi-azure-52.vercel.app/">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-00FF41?style=for-the-badge&logoColor=black"/>
+  <img src="https://img.shields.io/badge/🌐_Portfolio-64FFDA?style=for-the-badge&logoColor=0A192F"/>
 </a>
 <a href="https://www.linkedin.com/in/nurlan-mammadli-b6a55b308/">
-  <img src="https://img.shields.io/badge/LinkedIn-00FF41?style=for-the-badge&logo=linkedin&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LinkedIn-64FFDA?style=for-the-badge&logo=linkedin&logoColor=0A192F"/>
 </a>
 <a href="mailto:nurlanmammadli2@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-00FF41?style=for-the-badge&logo=gmail&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Gmail-64FFDA?style=for-the-badge&logo=gmail&logoColor=0A192F"/>
 </a>
 
 📧 **Email:** nurlanmammadli2@gmail.com
@@ -361,6 +361,6 @@ graph LR
 
 **If you like my work, don't forget to ⭐ star my repositories!**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=150&section=footer&text=Access%20Granted!&fontSize=40&fontColor=0a0a0a&animation=twinkling&fontAlignY=75"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Access%20Granted!&fontSize=40&fontColor=64FFDA&animation=twinkling&fontAlignY=75"/>
 
 </div>
