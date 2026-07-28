@@ -10,11 +10,11 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=15&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&height=40&lines=React+·+TypeScript+·+Next.js+·+Tailwind+CSS;Building+secure%2C+scalable+web+applications;Open+to+Frontend+Developer+opportunities" alt="Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=15&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&height=40&lines=React+·+TypeScript+·+Next.js+·+Tailwind+CSS;Building+secure%2C+scalable+web+applications;Open+to+Frontend+Developer+opportunities" alt="Typing" />
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white&labelColor=6366f1)](https://portfolio-psi-azure-52.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0891B2)](https://portfolio-psi-azure-52.vercel.app/)
 &nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nurlan-mammadli-b6a55b308/)
 &nbsp;&nbsp;
@@ -22,7 +22,7 @@
 &nbsp;&nbsp;
 [![LeetCode](https://img.shields.io/badge/LeetCode-0f172a?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=ffa116)](https://leetcode.com/u/nurlanhc1/)
 &nbsp;&nbsp;
-[![Profile Views](https://komarev.com/ghpvc/?username=nurlancoder&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS)](https://github.com/nurlancoder)
+[![Profile Views](https://komarev.com/ghpvc/?username=nurlancoder&style=for-the-badge&color=0891B2&label=PROFILE+VIEWS)](https://github.com/nurlancoder)
 
 </div>
 
@@ -100,11 +100,11 @@ Fully automated content pipeline — video sourcing, processing, scheduling, pub
 
 <div align="center">
 
-<img width="100%" src="https://streak-stats.demolab.com/?user=nurlancoder&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE" alt="streak" />
+<img width="100%" src="https://streak-stats.demolab.com/?user=nurlancoder&hide_border=true&background=0A101F&stroke=22D3EE&ring=22D3EE&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE" alt="streak" />
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nurlancoder&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F" alt="stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nurlancoder&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=22D3EE&text_color=94A3B8&bg_color=0A101F" alt="stats" />
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurlancoder&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F" alt="top langs" />
 
 <!-- ⚠ Self-host these two above once your Vercel instance is live (see setup steps) —
