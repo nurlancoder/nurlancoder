@@ -10,8 +10,6 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=15&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&height=40&lines=React+·+TypeScript+·+Next.js+·+Tailwind+CSS;Building+secure%2C+scalable+web+applications;Open+to+Frontend+Developer+opportunities" alt="Typing" />
-
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white&labelColor=00e5ff)](https://portfolio-psi-azure-52.vercel.app/)
