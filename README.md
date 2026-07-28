@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nurlancoder/nurlancoder/main/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nurlancoder/nurlancoder/main/light.svg">
-  <img alt="Nurlan Mammadli" src="https://raw.githubusercontent.com/nurlancoder/nurlancoder/main/light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="preview_dark_endstate.png">
+  <source media="(prefers-color-scheme: light)" srcset="preview_light_endstate.png">
+  <img alt="Nurlan Mammadli" src="preview_light_endstate.png">
 </picture>
 
 </div>
